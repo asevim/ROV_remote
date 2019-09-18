@@ -1,0 +1,16 @@
+main.c:114:5:main	112	static
+main.c:234:6:SystemClock_Config	88	static
+main.c:279:13:MX_ADC1_Init	24	static
+main.c:348:13:MX_CAN_Init	8	static
+main.c:385:13:MX_USART1_UART_Init	8	static
+main.c:416:13:MX_DMA_Init	16	static
+main.c:434:13:MX_GPIO_Init	40	static
+main.c:464:6:HAL_CAN_TxMailbox0CompleteCallback	16	static
+main.c:473:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+main.c:483:6:map	24	static
+main.c:487:6:uartPrint	16	static
+main.c:491:6:uartPrintln	24	static
+main.c:497:5:AutoMod	4	static
+main.c:578:5:ManuelMod	16	static
+main.c:609:9:createData	16	static
+main.c:626:6:Error_Handler	4	static
